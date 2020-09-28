@@ -5,6 +5,7 @@
 ### 📔 Problem solving List
 * [Codility](https://app.codility.com/programmers/)
   + [CyclicRotation](https://github.com/weejw/UpSupport/blob/master/coding_test_practice/2020/Codility/20200928%20CyclicRotation.py)
+  + [BinaryGap](https://github.com/weejw/UpSupport/blob/master/coding_test_practice/2020/Codility/20200928%20BinaryGap.py)
 * [Leetcode](https://leetcode.com/ "leetcode link")
   + [Subarray Product Less Than K]()
   + [find the difference](https://github.com/weejw/UpSupport/blob/master/coding_test_practice/2020/leetcode/20200924%20find%20the%20difference.py)
