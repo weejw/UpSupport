@@ -1,7 +1,6 @@
 # 위지원_WeeJiwon_UpSupport
 
-### 현재 git은 코딩 테스트 연습을 위해 풀었던 코드를 올리며, 현재는 ReadMe에 인덱스 정리중에 있습니다 😁
-### 감사합니다 :)
+### 현재 git은 코딩 테스트 연습을 위해 풀었던 코드를 올리는 곳입니다 😁
 
 ### 📔 Problem solving List
 * [Leetcode](https://leetcode.com/ "leetcode link")
