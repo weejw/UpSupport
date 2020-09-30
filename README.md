@@ -1,6 +1,6 @@
-# 위지원_WeeJiwon_UpSupport
+# 위지원(WeeJiwon)
 
-### 현재 git은 코딩 테스트 연습을 위해 풀었던 코드를 올리는 곳입니다 😁
+### 코딩 테스트 준비를 위해 연습한 코드를 정리해놓았습니다 😁
 
 ### 📔 Problem solving List
 * [Codility](https://app.codility.com/programmers/)
