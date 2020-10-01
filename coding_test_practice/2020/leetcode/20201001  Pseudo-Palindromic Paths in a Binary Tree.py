@@ -20,7 +20,5 @@ class Solution:
                 self.cnt+=1
     def pseudoPalindromicPaths (self, root: TreeNode) -> int:
         #find 함수돌려서 배열이 비어있지 않으면 counting
-        stack = []
-        
         self.find(root, set(), 0)
         return self.cnt
