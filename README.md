@@ -4,6 +4,8 @@
 
 ### 📔 Problem solving List
 * [Codility](https://app.codility.com/programmers/)
+  + [FrogJmp](https://github.com/weejw/UpSupport/blob/master/coding_test_practice/2020/Codility/20201002%20FrogJmp.py)
+  + [ermMissingElem](https://github.com/weejw/UpSupport/blob/master/coding_test_practice/2020/Codility/20201002%20ermMissingElem.py)
   + [OddOccurrencesInArray](https://github.com/weejw/UpSupport/blob/master/coding_test_practice/2020/Codility/20200928%20OddOccurrencesInArray.py)
   + [CyclicRotation](https://github.com/weejw/UpSupport/blob/master/coding_test_practice/2020/Codility/20200928%20CyclicRotation.py)
   + [BinaryGap](https://github.com/weejw/UpSupport/blob/master/coding_test_practice/2020/Codility/20200928%20BinaryGap.py)
