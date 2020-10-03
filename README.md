@@ -35,6 +35,7 @@
   + [Minmum Cost For tickets](https://github.com/weejw/UpSupport/blob/master/coding_test_practice/2020/leetcode/20200828%20Minimum%20Cost%20For%20Tickets.py)
   + [Fizz Buzz](https://github.com/weejw/UpSupport/blob/master/coding_test_practice/2020/leetcode/20200828%20Fizz%20Buzz)
 * [Programmers](https://programmers.co.kr/learn/challenges "programmers link")
+  + [2016년](https://github.com/weejw/UpSupport/blob/master/coding_test_practice/2020/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/20201003%202016%EB%85%84.py)
   + [문자열 압축](https://github.com/weejw/UpSupport/blob/master/coding_test_practice/2020/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/20201001%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%95%95%EC%B6%95.py)
   + [멀쩡한 사각형](https://github.com/weejw/UpSupport/blob/master/coding_test_practice/2020/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/20201001%20%EB%A9%80%EC%A9%A1%ED%95%9C%EC%82%AC%EA%B0%81%ED%98%95.py)
   + [두 개 뽑아서 더하기](https://github.com/weejw/UpSupport/blob/master/coding_test_practice/2020/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/20201001%20%EB%91%90%20%EA%B0%9C%20%EB%BD%91%EC%95%84%EC%84%9C%20%EB%8D%94%ED%95%98%EA%B8%B0.py)
