@@ -1,6 +1,6 @@
 # 위지원(WeeJiwon)
 
-### 코딩 테스트 준비를 위해 연습한 코드를 정리해놓았습니다 😁
+### 코딩 테스트 준비를 위해 연습한 코드들을 정리합니다.
 
 ### 📔 Problem solving List
 * [Codility](https://app.codility.com/programmers/)
