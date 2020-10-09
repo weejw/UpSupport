@@ -1,6 +1,6 @@
 # 위지원(WeeJiwon)
 
-### 코딩 테스트 준비를 위해 연습한 코드들을 정리합니다. 😎
+### 코딩 테스트 준비를 위해 연습한 코드들을 정리합니다. 
 
 ### 📔 Problem solving List
 * [Hackerrank](https://www.hackerrank.com/)
