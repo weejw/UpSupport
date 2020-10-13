@@ -88,19 +88,7 @@
   + [막대기](https://github.com/weejw/UpSupport/blob/master/coding_test_practice/2017/20170624%20%EB%B0%B1%EC%A4%80_%5B1094%5D%EB%B2%88%20%EB%A7%89%EB%8C%80%EA%B8%B0.py "막대기")
   + [더하기 사이클](https://github.com/weejw/UpSupport/blob/master/coding_test_practice/2017/20170624%20%EB%B0%B1%EC%A4%80_%5B1110%5D%EB%B2%88%20%EB%8D%94%ED%95%98%EA%B8%B0%EC%82%AC%EC%9D%B4%ED%81%B4.py "더하기 사이클")
   + [베스트 셀러](https://github.com/weejw/UpSupport/blob/master/coding_test_practice/2017/20170624%20%EB%B0%B1%EC%A4%80_%5B1302%5D%EB%B2%88%20%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%85%80%EB%9F%AC.py "베스트 셀러")
- 
-### 알고리즘 풀이에 대해서
-1. 문제풀이 시 20~30분 고민했는데 알고리즘이 안떠오르면 답
-2. 답 보고 이해 > 자기가 짜보기 > 나중에 꼭 다시 짜보기
-3. 프로그래머스 lv 1, lv 2 전부 풀기
-4. 완전 탐색
-    1. BFS 혹은 DFS
-    2. 자유롭게 다른 유형
 
-🤔자유?
-* 2포인터(= 슬라이딩 윈도우) - 투포인터
-* 스택 - ()()()() 짝 맞추기
-* 구현 - 계산기, 트리
     
 ### 내가 현재 알고리즘 공부를 조금해보고 실제로 코테를 보고 느낀점(2020.08.10)  
 드디어 코테치원을 졸업한거 아닐까?!아니다..그래도 엄첨 꾸준히는 못했지만 양심에 손을 얹고 꾸준히 요즘엔 달려왔다!😁  
