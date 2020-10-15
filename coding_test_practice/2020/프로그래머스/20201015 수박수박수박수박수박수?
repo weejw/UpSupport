@@ -1,0 +1,6 @@
+def solution(n):
+    s = ["수","박"]
+    answer = ""
+    for i in range(n):
+        answer += s[(i%2)]
+    return answer
