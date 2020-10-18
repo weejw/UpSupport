@@ -2,7 +2,7 @@
 
 ### 코딩 테스트 준비를 위해 연습한 코드들을 정리합니다. 
 
-### 📔 Problem solving List (마지막 업데이트 10월 3일)
+### 📔 Problem solving List (인덱스 마지막 업데이트 10월 3일)
 * [Hackerrank](https://www.hackerrank.com/)
 * [Codility](https://app.codility.com/programmers/)
   + [FrogJmp](https://github.com/weejw/UpSupport/blob/master/coding_test_practice/2020/Codility/20201002%20FrogJmp.py)
