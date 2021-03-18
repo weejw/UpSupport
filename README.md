@@ -38,7 +38,7 @@
 * [Programmers](https://programmers.co.kr/learn/challenges "programmers link")
   + [2016년](https://github.com/weejw/UpSupport/blob/master/coding_test_practice/2020/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/20201003%202016%EB%85%84.py)
   + [문자열 압축](https://github.com/weejw/UpSupport/blob/master/coding_test_practice/2020/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/20201001%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%95%95%EC%B6%95.py)
-  + [멀쩡한 사각형](https://github.com/weejw/UpSupport/blob/master/coding_test_practice/2020/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/20201001%20%EB%A9%80%EC%A9%A1%ED%95%9C%EC%82%AC%EA%B0%81%ED%98%95.py)
+  + [멀쩡한 사각형](https://github.com/weejw/UpSupport/blob/master/coding_test_practice/2020/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/20201001%20%EB%A9%80%EC%A9%A1%ED%95%9C%EC%82%AC%EA%B0%81%ED%9ㅍㄹㄹ8%95.py)
   + [두 개 뽑아서 더하기](https://github.com/weejw/UpSupport/blob/master/coding_test_practice/2020/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/20201001%20%EB%91%90%20%EA%B0%9C%20%EB%BD%91%EC%95%84%EC%84%9C%20%EB%8D%94%ED%95%98%EA%B8%B0.py)
   + [구명보트](https://github.com/weejw/UpSupport/blob/master/coding_test_practice/2020/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/20200915%20%EA%B5%AC%EB%AA%85%EB%B3%B4%ED%8A%B8.py)
   + [가장 큰 수](https://github.com/weejw/UpSupport/blob/master/coding_test_practice/2020/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/20200915%20%EA%B0%80%EC%9E%A5%20%ED%81%B0%EC%88%98.py)
@@ -90,3 +90,9 @@
   + [베스트 셀러](https://github.com/weejw/UpSupport/blob/master/coding_test_practice/2017/20170624%20%EB%B0%B1%EC%A4%80_%5B1302%5D%EB%B2%88%20%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%85%80%EB%9F%AC.py "베스트 셀러")
 
 ### 📔 Problem solving List (2021년)
+
+* [Leetcode](https://leetcode.com/ "leetcode link")
+  + [121. Best Time to Buy and Sell Stock.py](https://github.com/weejw/UpSupport/tree/master/coding_test_practice/2021/leetcode)
+  
+* [Programmers](https://programmers.co.kr/learn/challenges "programmers link")
+  + [skill_test 1](https://github.com/weejw/UpSupport/blob/master/coding_test_practice/2021/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/20210309%20skil_test.py) 
