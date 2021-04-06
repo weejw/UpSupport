@@ -2,7 +2,8 @@
 
 ### 코딩 테스트 준비를 위해 연습한 코드들을 정리합니다.
 
-### 📔 Problem solving List (2020년)
+<details markdown="1">
+<summary>📔 Problem solving List (2020년)</summary>
 * [Hackerrank](https://www.hackerrank.com/)
 * [Codility](https://app.codility.com/programmers/)
   + [FrogJmp](https://github.com/weejw/UpSupport/blob/master/coding_test_practice/2020/Codility/20201002%20FrogJmp.py)
@@ -88,11 +89,18 @@
   + [막대기](https://github.com/weejw/UpSupport/blob/master/coding_test_practice/2017/20170624%20%EB%B0%B1%EC%A4%80_%5B1094%5D%EB%B2%88%20%EB%A7%89%EB%8C%80%EA%B8%B0.py "막대기")
   + [더하기 사이클](https://github.com/weejw/UpSupport/blob/master/coding_test_practice/2017/20170624%20%EB%B0%B1%EC%A4%80_%5B1110%5D%EB%B2%88%20%EB%8D%94%ED%95%98%EA%B8%B0%EC%82%AC%EC%9D%B4%ED%81%B4.py "더하기 사이클")
   + [베스트 셀러](https://github.com/weejw/UpSupport/blob/master/coding_test_practice/2017/20170624%20%EB%B0%B1%EC%A4%80_%5B1302%5D%EB%B2%88%20%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%85%80%EB%9F%AC.py "베스트 셀러")
+</details>
 
-### 📔 Problem solving List (2021년)
-
+<details markdown="1">
+<summary>📔 Problem solving List (2021년)</summary>
 * [Leetcode](https://leetcode.com/ "leetcode link")
   + [121. Best Time to Buy and Sell Stock.py](https://github.com/weejw/UpSupport/tree/master/coding_test_practice/2021/leetcode)
   
 * [Programmers](https://programmers.co.kr/learn/challenges "programmers link")
   + [skill_test 1](https://github.com/weejw/UpSupport/blob/master/coding_test_practice/2021/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/20210309%20skil_test.py) 
+
+</details>
+
+
+
+
